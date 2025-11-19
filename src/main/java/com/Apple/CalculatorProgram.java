@@ -55,6 +55,6 @@ public class CalculatorProgram {
         }
 
         sc.close();
+        new sai
     }
 }
-
